@@ -1,1 +1,2 @@
-# Classical_and_quantum_deep_learning with We consider three methods namely isolation forest, auto encoder and hybrid quantum-classical auto encoder
+# Classical and quantum deep learning 
+We implement three anomaly detection methods using machine learning and deep learning, namely isolation forest, auto encoder and hybrid quantum-classical auto encoder
